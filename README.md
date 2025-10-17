@@ -1,6 +1,7 @@
 # HackTheBox Fawn Machine - Security Assessment & Interactive Q&A Walkthrough
 
 ![Platform](https://img.shields.io/badge/HackTheBox-Starting%20Point-9FEF00?style=flat-square&logo=hackthebox)
+</br>
 ![Difficulty](https://img.shields.io/badge/Difficulty-Very%20Easy-brightgreen?style=flat-square)
 ![OS](https://img.shields.io/badge/OS-Unix-blue?style=flat-square)
 
